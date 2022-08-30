@@ -674,7 +674,3 @@ window.title("Title")
 window.geometry("1358x764")
 window.mainloop()
 
-                  
-# -------------------------- ui stuff above ---------------------
-
-#----------------main program below----------------------
